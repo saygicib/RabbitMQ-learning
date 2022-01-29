@@ -18,11 +18,14 @@ namespace RabbitMQ_1_Publisher
 
             channel.QueueDeclare("hello-queue", true, false, false);
 
-            string message = "Hello World";
-            var messageBody = Encoding.UTF8.GetBytes(message);
-            channel.BasicPublish(string.Empty, "hello-queue", null, messageBody);
+            for (int i = 1; i <= 50; i++)
+            {
+                string message = $"{i}. Message";
+                var messageBody = Encoding.UTF8.GetBytes(message);
+                channel.BasicPublish(string.Empty, "hello-queue", null, messageBody);
+                Console.WriteLine($"Sent message : {message}");
+            }
 
-            Console.WriteLine("Sent message");
             Console.ReadLine();
         }
     }
