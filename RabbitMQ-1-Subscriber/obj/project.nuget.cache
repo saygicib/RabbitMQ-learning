@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qWtAZN9U07fQBlIoGMa4fOFf/h7sdRj3txPfBNdiqq0GJn2zkEdKSb8E/RM2mswbDWyAzAVhsnJGrdM8IgJDVQ==",
+  "dgSpecHash": "SlFiRhlEIPxTPZnKwCXqgrX1S8FvZ6zEzBYXxBBEgmEOmLOOMYPBdbouldz4XmQQVJ+iQXK1/Hmqsu13FRKUPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bsayg\\source\\repos\\RabbitMQ-1-Publisher\\RabbitMQ-1-Subscriber\\RabbitMQ-1-Subscriber.csproj",
+  "projectFilePath": "C:\\Users\\bsayg\\source\\repos\\RabbitMQ\\RabbitMQ-1-Subscriber\\RabbitMQ-1-Subscriber.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bsayg\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
     "C:\\Users\\bsayg\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

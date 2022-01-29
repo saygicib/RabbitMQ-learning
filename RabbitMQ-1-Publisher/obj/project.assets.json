@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsayg\\source\\repos\\RabbitMQ-1-Publisher\\RabbitMQ-1-Publisher\\RabbitMQ-1-Publisher.csproj",
+      "projectUniqueName": "C:\\Users\\bsayg\\source\\repos\\RabbitMQ\\RabbitMQ-1-Publisher\\RabbitMQ-1-Publisher.csproj",
       "projectName": "RabbitMQ-1-Publisher",
-      "projectPath": "C:\\Users\\bsayg\\source\\repos\\RabbitMQ-1-Publisher\\RabbitMQ-1-Publisher\\RabbitMQ-1-Publisher.csproj",
+      "projectPath": "C:\\Users\\bsayg\\source\\repos\\RabbitMQ\\RabbitMQ-1-Publisher\\RabbitMQ-1-Publisher.csproj",
       "packagesPath": "C:\\Users\\bsayg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsayg\\source\\repos\\RabbitMQ-1-Publisher\\RabbitMQ-1-Publisher\\obj\\",
+      "outputPath": "C:\\Users\\bsayg\\source\\repos\\RabbitMQ\\RabbitMQ-1-Publisher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bsayg\\AppData\\Roaming\\NuGet\\NuGet.Config",
